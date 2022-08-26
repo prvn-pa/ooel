@@ -1,5 +1,5 @@
 name: Awesome Research Group
-url: http://awesome.example.edu
+url: prvn.info
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
@@ -32,7 +32,7 @@ roles:
 front_page_news: 8
 
 # Base pathname for links.
-base: ''
+base: '/ooel'
 
 # make pages for the _projects folder
 collections:
